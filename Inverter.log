@@ -1,0 +1,15 @@
+LTspice 26.1.1 for Windows
+Circuit: D:\SRAM\netlists\Inverter.cir
+Start Time: Sun Nov  1 15:29:27 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Total elapsed time: 0.192 seconds.
+Total iterations: 456
+
+Files loaded:
+D:\SRAM\netlists\Inverter.cir
+D:\SRAM\models\45nm_LP.pm
+
