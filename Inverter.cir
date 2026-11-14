@@ -1,8 +1,0 @@
-* CMOS inverter voltage transfer curve
-.include ../models/45nm_LP.pm
-Vdd vdd 0 1.1
-Vin in 0 0
-Mp out in vdd vdd pmos W=180n L=45n
-Mn out in 0 0 nmos W=90n L=45n
-.dc Vin 0 1.1 0.005
-.end
